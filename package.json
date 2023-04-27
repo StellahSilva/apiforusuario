@@ -1,0 +1,23 @@
+{
+  "name": "apiforusuario",
+  "version": "1.0.0",
+  "description": "Rest api para usuários",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StellahSilva/apiforusuario.git"
+  },
+  "keywords": [],
+  "author": "Stella Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StellahSilva/apiforusuario/issues"
+  },
+  "homepage": "https://github.com/StellahSilva/apiforusuario#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
